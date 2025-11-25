@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pydantic
+pytesseract
+Pillow
+pdf2image
+motor
+python-dotenv
